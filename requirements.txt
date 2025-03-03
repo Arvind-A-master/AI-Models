@@ -9,3 +9,6 @@ streamlit
 ipykernel
 scikeras
 nltk
+xgboost
+catboost
+dill
