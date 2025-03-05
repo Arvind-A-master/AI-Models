@@ -12,3 +12,5 @@ nltk
 xgboost
 catboost
 dill
+keras
+opencv-python
