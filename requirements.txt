@@ -14,3 +14,4 @@ catboost
 dill
 keras
 opencv-python
+tensorflow_datasets
